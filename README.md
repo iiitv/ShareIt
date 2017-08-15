@@ -12,3 +12,7 @@ Wanna get notified when someone shares something, just [watch](https://github.co
 * **Description of the issue:** More information on your share and why you think it's good for the community.
 * Opening an issue will send an e-mail to all those who are watching this repository. So they will get notified about your post.
 
+
+## Credits
+
+Idea by [Avi Aryan](http://aviaryan.in)
